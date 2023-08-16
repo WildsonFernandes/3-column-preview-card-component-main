@@ -5,8 +5,7 @@
 
     box-sizing: border-box;
     border: 0;
-    padding: 0;
-    
+    padding: 0; 
 }
 
 body{
@@ -15,9 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     display: flex;
-    border-radius: 10px;
-    
-    
+    border-radius: 10px;  
 }
 
 .primeira{
@@ -27,8 +24,6 @@ body{
     display: flex;
     margin-top: 90px;
     border-radius: 8px;
-    
-  
 }
 
 .dentro1{
@@ -41,8 +36,6 @@ body{
     font-size: 15px;
     border-top-left-radius: 8px;
     border-end-start-radius: 8px ;
-   
-
 }
 
 .dentro2{
@@ -52,10 +45,7 @@ body{
     display: flex;
     flex-direction: column;
     padding: 30px;
-    font-size: 15px;
-    
-    
-
+    font-size: 15px;   
 }
 
 .dentro3{
@@ -68,12 +58,10 @@ body{
     font-size: 15px;
     border-bottom-right-radius: 8px ;
     border-top-right-radius:8px;
-
 }
 
 .imagem1{
     width: 50px;
- 
 }
 
 .imagem2{
@@ -83,27 +71,26 @@ body{
 .imagem3{
     width: 50px;
 }
+
 button:hover{
-    cursor: pointer;
+    cursor: pointer;    
 }
-button{
+
+button {
     width: 130px;
     height: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 15px;
-    margin-top: 60px;
-
-    
+    margin-top: 60px;  
 }
 
 h1 {
     font-family: 'Bebas Neue';
     color: white;
-
-
 } 
+
 p {
     color: white;
 }
